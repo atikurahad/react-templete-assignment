@@ -13,7 +13,7 @@
 
 # Installation:
  
-- git clone https://github.com/sholayman99/ostad_assignment_ecomTemplate.git
+- git clone https://github.com/atikurahad/react-templete-assignment
 - cd ostad_assignment_ecomTemplate
 - npm install
 - npm run dev
